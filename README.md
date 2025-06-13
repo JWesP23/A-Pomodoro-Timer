@@ -1,6 +1,10 @@
 # A Pomodoro Timer
 A simple and functional Pomodoro Timer built using Python and Tkinter. It helps boost productivity by using the Pomodoro Technique — alternating between focused work sessions and timed breaks.
 
+## Preview
+
+![Pomodoro Example](flashcard_example.png)
+
 ## Features
 
 -  Start, Stop (Pause), and Reset buttons
