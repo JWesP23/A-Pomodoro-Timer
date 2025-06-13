@@ -3,7 +3,7 @@ A simple and functional Pomodoro Timer built using Python and Tkinter. It helps 
 
 ## Preview
 
-![Pomodoro Example](flashcard_example.png)
+![Pomodoro Example](Pomodoro_Preview.png)
 
 ## Features
 
